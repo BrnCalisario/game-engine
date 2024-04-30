@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/bruno/code/MyGame/Content/../assets/ball.png</File>
+    <File>C:/Users/bruno/code/MyGame/Content/../assets/player.png</File>
+    <File>C:/Users/bruno/code/MyGame/Content/../assets/wall/wall_corner.png</File>
+    <File>C:/Users/bruno/code/MyGame/Content/../assets/wall/wall_tail.png</File>
+    <File>C:/Users/bruno/code/MyGame/Content/wall_body.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>ball.png</File>
+    <File>player.png</File>
+    <File>wall_corner.png</File>
+    <File>wall_tail.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

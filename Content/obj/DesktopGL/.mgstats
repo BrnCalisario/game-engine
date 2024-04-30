@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/bruno/code/MyGame/Content/../assets/ball.png","C:/Users/bruno/code/MyGame/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",99207,2556885,0,133324
+"C:/Users/bruno/code/MyGame/Content/../assets/player.png","C:/Users/bruno/code/MyGame/Content/bin/DesktopGL/player.xnb","TextureProcessor","Texture2DContent",2199,262229,0,00696
+"C:/Users/bruno/code/MyGame/Content/../assets/wall/wall_corner.png","C:/Users/bruno/code/MyGame/Content/bin/DesktopGL/wall_corner.xnb","TextureProcessor","Texture2DContent",2169,262229,0,0054878
+"C:/Users/bruno/code/MyGame/Content/../assets/wall/wall_tail.png","C:/Users/bruno/code/MyGame/Content/bin/DesktopGL/wall_tail.xnb","TextureProcessor","Texture2DContent",2736,262229,0,0060117
+"C:/Users/bruno/code/MyGame/Content/wall_body.png","C:/Users/bruno/code/MyGame/Content/bin/DesktopGL/wall_body.xnb","TextureProcessor","Texture2DContent",2705,262229,0,0056214
